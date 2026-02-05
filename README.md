@@ -39,3 +39,6 @@ GenerativeRiskAI simulates multiple plausible future scenarios from historical d
 - PyTorch / TensorFlow  
 - Streamlit, Plotly, Matplotlib  
 - Public datasets  
+
+## Try it
+🌐 Live Demo: https://website-builder--fabriciocabrera.replit.app
